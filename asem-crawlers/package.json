@@ -1,0 +1,12 @@
+{
+    "name": "asem-test-webcrawler",
+    "version": "0.0.1",
+    "description": "A test webcrawler for asem",
+    "main": "crawler.js",
+    "author": "mephistopheles",
+    "dependencies": {
+        "cheerio": "latest",
+        "url-parse": "latest",
+        "reqeest": "latest"
+    }
+}
